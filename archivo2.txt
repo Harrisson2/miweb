@@ -1,3 +1,5 @@
 archivo 2 nuevo y mejorado 
 
-para mostrar un git status mas optimo
+para mostrar un git status mas optimo.
+
+Esta es una RAMA NUEVA.
