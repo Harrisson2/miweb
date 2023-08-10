@@ -1,0 +1,3 @@
+Este es el segundo archivo
+
+estoy adicionano lineas nuevas en archivo2.txt
