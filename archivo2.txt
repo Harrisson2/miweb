@@ -1,7 +1,0 @@
-Este es el segundo archivo
-
-estoy adicionano lineas nuevas en archivo2.txt
-
-Este ejemplo es para hacer commit de la forma
-No recomendable puesto que en ocaciones se olvida
-dejar el comentario.
